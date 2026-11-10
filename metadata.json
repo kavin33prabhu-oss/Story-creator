@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Creator",
+  "description": "Create original, captivating stories across genres with custom characters, continuations, and AI illustrations using Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
